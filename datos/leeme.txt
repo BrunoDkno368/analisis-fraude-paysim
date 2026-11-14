@@ -1,0 +1,10 @@
+Dataset: PaySim - Synthetic Financial Datasets For Fraud Detection
+Autor: Edgar Lopez-Rojas
+Fuente: https://www.kaggle.com/datasets/ealaxi/paysim1
+Archivo: paysim1.csv (unos 470 MB)
+
+El archivo no está incluido en este repositorio porque supera el límite de
+100 MB de GitHub. Para reproducir el análisis, descargarlo desde el enlace
+de Kaggle y guardarlo en la carpeta del proyecto.
+
+Los datos son simulados. Consultar la licencia en la página de Kaggle.
