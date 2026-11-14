@@ -46,13 +46,21 @@ Herramienta	Para qué la usé
 Python (pandas)	Leer y verificar los datos, crear la regla y cargarlos a la base de datos
 SQL (MySQL)	Calcular tasas de fraude por tipo de operación, por estado de la cuenta y la cobertura de la regla
 Power BI	Armar un dashboard de una página con los resultados
+
 📁 Contenido del repositorio
+
 ├── README.md          Esta página
+
 ├── imagenes/          Captura del dashboard
+
 ├── python/            Preparación de los datos y carga a MySQL
+
 ├── sql/               Creación de la tabla y consultas comentadas
+
 ├── power_bi/          Dashboard (.pbix)
+
 └── datos/             Fuente del dataset
+
 <details> <summary><b>🔁 Cómo reproducirlo (para quien quiera repetir el análisis)</b></summary>
 Descargar el archivo CSV desde Kaggle (PaySim), del autor Edgar Lopez-Rojas, y guardarlo en la carpeta del proyecto. No está en el repositorio porque pesa unos 470 MB.
 Crear la base en MySQL: CREATE DATABASE fraude_paysim;
